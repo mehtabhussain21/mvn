@@ -33,10 +33,8 @@ public class datePicker {
 				break;
 			}
 			
-			
-			
 		}
-		
+		driver.quit();
 		
 	}
 
